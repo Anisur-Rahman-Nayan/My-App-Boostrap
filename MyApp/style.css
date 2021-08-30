@@ -1,0 +1,44 @@
+.navbar-brand{
+    font-size: 1.8em;
+}
+.right{
+    margin-left: 450px;
+}
+.topContainer{
+    background-image: url("./hand-painted-watercolor-background-with-sky-clouds-shape.jpg");
+   height: 1300px;
+   width: 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#topRow{
+    text-align: center;
+}
+.text{
+    margin-top: 100px;
+}
+.bold{
+    font-weight: bold;
+}
+#center{
+    text-align: center;
+    margin-top: 25px;
+}
+.gap{
+    margin: 20px;
+}
+#bottom{
+    margin: 10px;
+    text-align: center;
+}
+#size{
+    width: 250px;
+    cursor: pointer;
+}
+#downloadDiv{
+    text-align: center;
+    margin-top: 45px;
+}
+#size{
+   
+}
